@@ -1,5 +1,0 @@
-suppose if you wan tot start a server in bg than the command is eg. sudo npm start node & 
-here '&' help the server to run in bg without using the terminal, so we can do further works on terminal
-
-whenever you change the configuration files you always need to restart the service
-parameterized means using varible to secure the 
